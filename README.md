@@ -1,4 +1,6 @@
 # sample
 Sample Project for basic command
 
-first commit.
+first commit through local computer.
+
+second commit through web.
